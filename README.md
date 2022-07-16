@@ -1,2 +1,2 @@
 # TodoList
-.NET client &amp; server model
+ASP.NET client &amp; server model
